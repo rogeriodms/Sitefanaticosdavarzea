@@ -1,0 +1,140 @@
+body
+{
+    margin: 0px;
+}
+.RedeSocial
+{
+    border-bottom: 1px solid blue; 
+    color: aliceblue;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: #4F4F4F;
+    /*a fonte esta na linha html como preferencia*/
+}
+.container
+{
+    max-width: 960px;
+    width: 100%;
+    margin:  auto;
+}
+.logo
+{
+    width: 320px;   
+    margin-top: 10px;
+    margin-left: 10px;
+    margin: 10px;
+}
+nav a
+{ 
+    
+    font-family:cursive;
+    color: blue;
+    text-decoration: none;
+    margin-right: 10px;
+    margin: 20px;
+    float: right;
+}
+.Cart_menu
+{
+    width: 35px;
+    margin-right: 50px;
+    margin-top: 10px;
+    float: right;
+    
+}
+.login-icon
+{
+    width: 35px;
+    margin-right: 50px;
+    margin-top: 10px;
+    float: right;
+}
+.menu
+{
+    background-color: #4876FF;
+}
+.produtos1
+{
+    max-width: 1600px;
+    background-image: url(../img/Arena-Corinthians.jpg);
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 70px;
+    height: 750px;
+}
+.produtos1 .texto
+{
+    padding-top: 100px;
+    font-size: 28px;
+    font-family:cursive;
+    color: white;
+}
+.produtos1 a 
+{
+    
+    font-family:cursive;
+    background-color: #4876FF;
+    color:floralwhite;
+    
+}
+.historia .titulo2
+{
+    font-family:cursive;
+    font-size: 70px;
+    max-width: 960px;
+    width: 100%;
+    margin:  auto;
+}
+.historia .historia
+{
+    font-family:cursive;
+    font-size: 20px;
+    max-width: 960px;
+    width: 100%;
+    margin:  auto;
+}
+footer .direitos
+{
+    font-family:cursive;
+    background-color: blue;
+    color: floralwhite;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 200px;
+}
+footer .direitos a
+{
+    color: white;
+}
+footer .alinhamento 
+{
+    margin-top: 70px;
+    align-items: center;
+}
+footer .redessociais
+{
+    margin-left: 20px;
+    float: left; 
+    margin-top: -20px;
+    padding-right: 1px groove blue;
+}
+footer .menus 
+{
+    margin-left: 350px;
+    align-content: center;
+}
+footer .contato
+{
+    margin-left: 650px;
+    vertical-align: top;
+    margin-top: -140px;
+}
+.linkcarrinho
+{
+    margin-top: -50px;
+}
+img 
+{
+    width: 100%;
+}
